@@ -1,0 +1,5 @@
+- ไฟล์ใน Test ที่ต้องมี - 
+  - Test Design (กำลังหา Templates)
+    - API + UAT Testing
+  - Test Data (Data)
+  - Code Test (Robot)

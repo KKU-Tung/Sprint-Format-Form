@@ -1,0 +1,5 @@
+- ประกอบด้วย -
+  - A-DAPT Blueprint (.pdf & .xlsx)
+  - Test Report
+  - User Manual *วิธีการใช้งานสำหรับ User* (.md file)
+  - Change log 
